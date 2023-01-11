@@ -1,0 +1,14 @@
+#btn
+{
+	style="display: inline-block;
+  	padding: 15px 25px;
+  	font-size: 24px;
+  	cursor: pointer;
+  	text-align: center;
+  	text-decoration: none;
+  	outline: none;
+  	color: #fff;
+  	background-color: palevioletred;
+  	border: none;
+  	box-shadow: 0 4px #999;"
+}
