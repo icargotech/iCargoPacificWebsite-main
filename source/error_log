@@ -1,0 +1,217 @@
+[05-Jun-2021 10:07:55 UTC] PHP Notice:  Undefined variable: conn2 in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 146
+[05-Jun-2021 10:07:55 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:07:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:07:55 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:08:43 UTC] PHP Notice:  Undefined variable: conn2 in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 146
+[05-Jun-2021 10:08:43 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:08:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:08:43 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:21:59 UTC] PHP Notice:  Undefined variable: conn2 in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 146
+[05-Jun-2021 10:21:59 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:21:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:21:59 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:24:12 UTC] PHP Notice:  Undefined variable: conn2 in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 146
+[05-Jun-2021 10:24:12 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:24:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:24:12 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[05-Jun-2021 10:30:11 UTC] PHP Notice:  Undefined variable: Consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 147
+[13-Jun-2021 13:46:25 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[13-Jun-2021 13:46:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[14-Jun-2021 06:02:52 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 229
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 229
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 230
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 230
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 231
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 231
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 232
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 232
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 233
+[14-Jun-2021 06:03:44 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 233
+[14-Jun-2021 06:10:43 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[14-Jun-2021 06:11:01 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 198
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 251
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 252
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 253
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 254
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 255
+[22-Jun-2021 13:44:55 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 256
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 251
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 252
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 253
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 254
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 255
+[30-Jun-2021 07:23:54 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 256
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 170
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 171
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 172
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 173
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 174
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 175
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: brand_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 176
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: brand_price in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 177
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: senders_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 179
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: senders_emailadd in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 180
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: senders_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 181
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: senders_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 182
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: senders_company in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 183
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: senders_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 184
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: senders_pickdate in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 185
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: consignee_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 186
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: consignee_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 187
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 188
+[26-Sep-2021 12:00:59 UTC] PHP Notice:  Undefined index: consignee_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 189
+[18-Jan-2022 06:56:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 251
+[18-Jan-2022 06:56:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 252
+[18-Jan-2022 06:56:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 253
+[18-Jan-2022 06:56:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 254
+[18-Jan-2022 06:56:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 255
+[18-Jan-2022 06:56:07 UTC] PHP Notice:  A non well formed numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 256
+[07-Feb-2022 03:10:41 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 119
+[07-Feb-2022 03:10:41 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 120
+[07-Feb-2022 03:10:41 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 121
+[07-Feb-2022 03:10:41 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 122
+[07-Feb-2022 03:10:41 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 123
+[07-Feb-2022 03:10:41 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 124
+[07-Feb-2022 03:10:41 UTC] PHP Notice:  Undefined index: brand in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 127
+[07-Feb-2022 03:10:41 UTC] PHP Notice:  Undefined offset: 1 in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 129
+[11-Feb-2022 08:34:47 UTC] PHP Notice:  Undefined index: number in /home/zvt3ofsm7yd0/public_html/partnership.php on line 10
+[11-Feb-2022 08:34:47 UTC] PHP Notice:  Undefined index: addmessage in /home/zvt3ofsm7yd0/public_html/partnership.php on line 11
+[11-Feb-2022 08:35:02 UTC] PHP Notice:  Undefined index: number in /home/zvt3ofsm7yd0/public_html/partnership.php on line 10
+[11-Feb-2022 08:35:02 UTC] PHP Notice:  Undefined index: addmessage in /home/zvt3ofsm7yd0/public_html/partnership.php on line 11
+[11-Feb-2022 08:35:07 UTC] PHP Notice:  Undefined index: number in /home/zvt3ofsm7yd0/public_html/partnership.php on line 10
+[11-Feb-2022 08:35:07 UTC] PHP Notice:  Undefined index: addmessage in /home/zvt3ofsm7yd0/public_html/partnership.php on line 11
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 123
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 124
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 125
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 126
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 127
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 128
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: brand_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 129
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: brand_price in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 130
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: senders_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 132
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: senders_emailadd in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 133
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: senders_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 134
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: senders_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 135
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: senders_company in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 136
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: senders_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 137
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: senders_pickdate in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 138
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: consignee_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 139
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: consignee_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 140
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 141
+[09-Mar-2022 15:00:45 UTC] PHP Notice:  Undefined index: consignee_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 142
+[14-Mar-2022 06:54:25 UTC] PHP Notice:  Undefined index: number in /home/zvt3ofsm7yd0/public_html/partnership.php on line 10
+[14-Mar-2022 06:54:25 UTC] PHP Notice:  Undefined index: addmessage in /home/zvt3ofsm7yd0/public_html/partnership.php on line 11
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 170
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 171
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 172
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 173
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 174
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 175
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: brand_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 176
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: brand_price in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 177
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: senders_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 179
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: senders_emailadd in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 180
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: senders_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 181
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: senders_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 182
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: senders_company in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 183
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: senders_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 184
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: senders_pickdate in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 185
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: consignee_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 186
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: consignee_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 187
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 188
+[14-Mar-2022 07:21:42 UTC] PHP Notice:  Undefined index: consignee_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 189
+[14-Mar-2022 16:39:14 UTC] PHP Notice:  Undefined index: number in /home/zvt3ofsm7yd0/public_html/partnership.php on line 10
+[14-Mar-2022 16:39:14 UTC] PHP Notice:  Undefined index: addmessage in /home/zvt3ofsm7yd0/public_html/partnership.php on line 11
+[14-Mar-2022 16:52:39 UTC] PHP Notice:  Undefined index: number in /home/zvt3ofsm7yd0/public_html/partnership.php on line 10
+[14-Mar-2022 16:52:39 UTC] PHP Notice:  Undefined index: addmessage in /home/zvt3ofsm7yd0/public_html/partnership.php on line 11
+[14-Mar-2022 17:49:50 UTC] PHP Notice:  Undefined index: number in /home/zvt3ofsm7yd0/public_html/partnership.php on line 10
+[14-Mar-2022 17:49:50 UTC] PHP Notice:  Undefined index: addmessage in /home/zvt3ofsm7yd0/public_html/partnership.php on line 11
+[14-Mar-2022 18:11:30 UTC] PHP Notice:  Undefined index: number in /home/zvt3ofsm7yd0/public_html/partnership.php on line 10
+[14-Mar-2022 18:11:30 UTC] PHP Notice:  Undefined index: addmessage in /home/zvt3ofsm7yd0/public_html/partnership.php on line 11
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 251
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 251
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 252
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 252
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 253
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 253
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 254
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 254
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 255
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 255
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 256
+[15-Mar-2022 07:56:36 UTC] PHP Warning:  A non-numeric value encountered in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 256
+[27-Mar-2022 08:38:23 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 244
+[27-Mar-2022 08:38:23 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 245
+[27-Mar-2022 08:38:23 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 246
+[27-Mar-2022 08:38:23 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 247
+[27-Mar-2022 08:38:23 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 248
+[27-Mar-2022 08:38:23 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 249
+[29-Mar-2022 12:24:00 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 244
+[29-Mar-2022 12:24:00 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 245
+[29-Mar-2022 12:24:00 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 246
+[29-Mar-2022 12:24:00 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 247
+[29-Mar-2022 12:24:00 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 248
+[29-Mar-2022 12:24:00 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 249
+[31-Mar-2022 02:25:43 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 119
+[31-Mar-2022 02:25:43 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 120
+[31-Mar-2022 02:25:43 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 121
+[31-Mar-2022 02:25:43 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 122
+[31-Mar-2022 02:25:43 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 123
+[31-Mar-2022 02:25:43 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 124
+[31-Mar-2022 02:25:43 UTC] PHP Notice:  Undefined index: brand in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 127
+[31-Mar-2022 02:25:43 UTC] PHP Notice:  Undefined offset: 1 in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 129
+[02-Apr-2022 01:41:42 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 244
+[02-Apr-2022 01:41:42 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 245
+[02-Apr-2022 01:41:42 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 246
+[02-Apr-2022 01:41:42 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 247
+[02-Apr-2022 01:41:42 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 248
+[02-Apr-2022 01:41:42 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages2.php on line 249
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 123
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 124
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 125
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 126
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 127
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 128
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: brand_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 129
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: brand_price in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 130
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: senders_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 132
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: senders_emailadd in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 133
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: senders_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 134
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: senders_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 135
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: senders_company in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 136
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: senders_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 137
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: senders_pickdate in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 138
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: consignee_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 139
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: consignee_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 140
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 141
+[03-Apr-2022 13:16:06 UTC] PHP Notice:  Undefined index: consignee_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages4.php on line 142
+[04-Apr-2022 03:25:43 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 119
+[04-Apr-2022 03:25:43 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 120
+[04-Apr-2022 03:25:43 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 121
+[04-Apr-2022 03:25:43 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 122
+[04-Apr-2022 03:25:43 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 123
+[04-Apr-2022 03:25:43 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 124
+[04-Apr-2022 03:25:43 UTC] PHP Notice:  Undefined index: brand in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 127
+[04-Apr-2022 03:25:43 UTC] PHP Notice:  Undefined offset: 1 in /home/zvt3ofsm7yd0/public_html/qoutes_pages3.php on line 129
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: origin_city in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 170
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: destination in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 171
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: weight in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 172
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: width in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 173
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: length in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 174
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: height in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 175
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: brand_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 176
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: brand_price in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 177
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: senders_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 179
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: senders_emailadd in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 180
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: senders_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 181
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: senders_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 182
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: senders_company in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 183
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: senders_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 184
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: senders_pickdate in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 185
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: consignee_name in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 186
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: consignee_contactnum in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 187
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: consignee_address in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 188
+[08-Apr-2022 15:48:05 UTC] PHP Notice:  Undefined index: consignee_landmark in /home/zvt3ofsm7yd0/public_html/qoutes_pages5.php on line 189
+[12-Apr-2022 09:16:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/zvt3ofsm7yd0/public_html/tracks.php on line 140
+[12-Apr-2022 09:17:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/zvt3ofsm7yd0/public_html/tracks.php on line 140
